@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "paths": {
+      "@/*": ["./src/*"],
+      "@components/*": ["./src/components/*"],
+      "@lib/*":["./src/lib/*"],
+      "@public/*": ["./public/*"],
+      "@utils/*": ["./utils/*"],
+      "@models/*": ["./models/*"],
+      "@api/*":["./src/api/*"],
+    }
+  }
+}
