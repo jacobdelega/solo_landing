@@ -4,7 +4,7 @@ interface EmailTemplateProps {
     firstName: string;
 }
 //TODO
-const programURL = "http://localhost:3000/4week.xlsx" // Change when production ready
+const programURL = "https://solo-landing.vercel.app/4week.xlsx" // Change when production ready
 
 export const EmailTemplate: React.FC<Readonly<EmailTemplateProps>> = ({ firstName }) => (
     <div>
