@@ -47,7 +47,7 @@ export default function page() {
 
                 <div className='mt-4 max-w-2xl flex flex-col mx-auto md:flex-row md:gap-8 md:items-center'>
                     <div className='flex justify-center mt-4 md:justify-start'>
-                        <Image className='w-[250px] h-[300px] md:w aspect-auto mt-2 rounded-lg ' src='/tiktok/comp_after.png' width={250} height={300} />
+                        <Image className='w-[250px] h-[300px] md:w aspect-auto mt-2 rounded-lg ' src='/tiktok/comp_after.PNG' width={250} height={300} />
                     </div>
                     {/* <h1 className='font-bricolage-800 text-center text-xl font-normal text-slate-700'>Difference</h1> */}
                     <div className='md:w-4/6 mt-8'>

@@ -21,8 +21,8 @@ export default function MainProof() {
                 <p className='text-center font-bold md:mt-4 '> These programs are the result of years of research and refinement, designed to help you achieve your fitness goals and build lasting confidence.</p>
                 <div className='flex justify-center mt-2'>
                     <image-compare className='' label-text='Screen Reader Label Text'>
-                        <img className='w-[200px] h-[200px] rounded-xl md:w-[300px] md:h-[300px]' slot='image-1' alt='Alt Text' src='/tiktok/beach_before.png' />
-                        <img className='w-[200px] h-[200px] md:w-[300px] md:h-[300px] rounded-xl' slot='image-2' alt='Alt text' src='/tiktok/after.jpg' />
+                        <img className='w-[200px] h-[200px] rounded-xl md:w-[300px] md:h-[300px]' slot='image-1' alt='Alt Text' src='./public/tiktok/beach_before.png' />
+                        <img className='w-[200px] h-[200px] md:w-[300px] md:h-[300px] rounded-xl' slot='image-2' alt='Alt text' src='./public/tiktok/after.jpg' />
                     </image-compare>
                 </div>
                 <div>
